@@ -12,7 +12,7 @@ Key Skills: Python, SQL, R, Power BI
 ### E-Commerce Customer and Performance Analytics [ https://github.com/aarushijain16/e-commerce-customer-analytics ]
 *Uncovered pivotal insights from e-commerce data to optimize business performance, customer segmentation, and marketing strategies, driving quantifiable improvements in sales and retention.*
 
-### Sales Forecasting with Time Series (R) [ https://github.com/aarushijain16/sales-forecasting-timeseries ]
+### Sales Forecasting with Time Series (R)  [ https://github.com/aarushijain16/sales-forecasting-timeseries ]
 *Leveraged advanced time series analysis in R to develop precise sales forecasts, providing critical data-driven guidance for inventory management and strategic planning.*
 
 ### Recommending the Best Alternative (Supplier Selection with Python) [ https://github.com/aarushijain16/supplier-selection-optimization ]
