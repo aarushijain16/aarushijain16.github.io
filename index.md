@@ -27,7 +27,7 @@ Key Skills: Python, SQL, R, Power BI
 
 ------
 Contact me at:
-Email: aarushi.careers16@gmail.com
+* Email: aarushi.careers16@gmail.com
 OR
-[LinkedIn](https://www.linkedin.com/in/aarushiijainn) 
+* [LinkedIn](https://www.linkedin.com/in/aarushiijainn) 
 
