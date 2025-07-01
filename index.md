@@ -24,7 +24,7 @@ Key Skills: Python, SQL, R, Power BI
 ### [Knowledge Management and Digital Strategies (Accenture and Uber Research)](https://github.com/aarushijain16/knowledge-management-strategy-research) 
 *Conducted in-depth strategic research on Knowledge Management and Digital Strategies for industry leaders like Uber and Accenture, delivering actionable insights for enhanced organizational efficiency and competitive advantage.*
 
-### [Optimizing Customr Support Operations at Delwarca Software](https://github.com/aarushijain16/delwarca-optimising-customer-support)
+### [Optimizing Customer Support Operations at Delwarca Software](https://github.com/aarushijain16/delwarca-optimising-customer-support)
 *Analysis and optimisation of call center operations at Delwarca Software's Remote Support Unit, leveraging business analysis and simulation modelling to improve customer service and resource utilisation.*
 
 ------
