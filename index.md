@@ -27,6 +27,18 @@ Key Skills: Python, SQL, R, Power BI
 ### [Optimizing Customer Support Operations at Delwarca Software](https://github.com/aarushijain16/delwarca-optimising-customer-support)
 *Analysis and optimisation of call center operations at Delwarca Software's Remote Support Unit, leveraging business analysis and simulation modelling to improve customer service and resource utilisation.*
 
+### [Netflix Content Analysis: Trends & Distribution](https://github.com/aarushijain16/netflix-content-analysis--powerbi)
+*This project provides an in-depth analysis of Netflix's content library, dissecting distribution trends by type, release year, genre, and country. Built using Power BI with data from Kaggle, this report offers actionable insights into content strategy, audience preferences, and global reach through interactive visualizations.*
+
+### [Blinkit Grocery Data Analytics: Driving Sales & Customer Insights](https://github.com/aarushijain16/blinkit-grocery-data-analytics-powerbi)
+*This project presents an in-depth analysis of Blinkit's e-commerce transactional data through a comprehensive Power BI dashboard. It dissects revenue streams, evaluates product performance, and uncovers customer buying patterns to optimize sales, enhance product strategies, and improve overall business performance.*
+
+### [HR Analytics Dashboard: Understanding and Mitigating Employee Attrition](https://github.com/aarushijain16/hr-analytics-dashboard-power-bi)
+*This project presents an in-depth analysis of employee attrition using a comprehensive HR analytics dashboard. By dissecting key demographic, job role, and tenure-related factors, this dashboard provides actionable insights to understand the drivers of employee turnover, optimize retention strategies, and enhance overall workforce stability.*
+
+### [Classic Models Sales Performance and Customer Analytics](https://github.com/aarushijain16/classic-model-power-bi)
+*This project provides a comprehensive analysis of sales, customer, product, and employee performance for "Classic Models" using a multi-page Power BI dashboard. Leveraging data from Kaggle, it offers actionable insights to optimize revenue, enhance customer engagement, manage inventory, and improve sales team effectiveness.*
+
 ------
 Contact me at:
 * Email: aarushi.careers16@gmail.com
