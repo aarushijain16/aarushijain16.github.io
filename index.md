@@ -39,6 +39,9 @@ Key Skills: Python, SQL, R, Power BI
 ### [Classic Models Sales Performance and Customer Analytics](https://github.com/aarushijain16/classic-model-power-bi)
 *This project provides a comprehensive analysis of sales, customer, product, and employee performance for "Classic Models" using a multi-page Power BI dashboard. Leveraging data from Kaggle, it offers actionable insights to optimize revenue, enhance customer engagement, manage inventory, and improve sales team effectiveness.*
 
+### [Pizza Sales Performance Report](https://github.com/aarushijain16/pizza_sales_analysis-power-bi)
+*This repository features a Power BI report and its corresponding dataset for a comprehensive analysis of pizza sales. The report visualizes crucial business metrics, including total revenue, total quantity sold, and average order value. The dashboard is designed to provide actionable insights by breaking down sales data across various dimensions such as pizza category, time of day, and day of the week. This project is an excellent resource for anyone interested in exploring data analytics, sales performance, and consumer trends within the food service industry.*
+
 ------
 Contact me at:
 * Email: aarushi.careers16@gmail.com
