@@ -9,6 +9,9 @@ Key Skills: Python, SQL, R, Power BI
 ### [Forecasting Airbnb Demand in London](https://github.com/aarushijain16/airbnb-demand-forecasting)
 *Unlocked the secrets of London's Airbnb market: a published study leveraging advanced machine learning and granular data insights to accurately forecast demand and pinpoint key growth drivers.*
 
+### [From Carts to Conscious Consumers: Applying Retail Intelligence to Nicobar’s World](https://github.com/aarushijain16/nicobar-proxy-omni-channel)
+*The project demonstrates how analytical frameworks from retail can be adapted for lifestyle brands like Nicobar, linking customer segmentation, CLV, product affinity, and engagement analytics to brand strategy and CRM design.*
+
 ### [E-Commerce Customer and Performance Analytics](https://github.com/aarushijain16/e-commerce-customer-analytics) 
 *Uncovered pivotal insights from e-commerce data to optimize business performance, customer segmentation, and marketing strategies, driving quantifiable improvements in sales and retention.*
 
