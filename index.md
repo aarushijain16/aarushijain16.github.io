@@ -1,56 +1,182 @@
-# Aarushi Jain
-### Data Analyst | Business Analyst 
-Welcome to my data analytics portfolio! I help businesses drive growth and efficiency by transforming data into strategic insights and measurable results!
+# 👋 Hi, I’m Aarushi Jain
 
-Key Skills: Python, SQL, R, Power BI 
+Data Analyst | Business Analyst
 
-------
-## My Projects:
-### [Forecasting Airbnb Demand in London](https://github.com/aarushijain16/airbnb-demand-forecasting)
-*Unlocked the secrets of London's Airbnb market: a published study leveraging advanced machine learning and granular data insights to accurately forecast demand and pinpoint key growth drivers.*
+📊 Turning data into clear, business-ready decisions
 
-### [Maven Superstore Inventory Optimization and Profitability Analysis](https://github.com/aarushijain16/maven-superstore-postgresql)
-*This project applies advanced inventory analytics to the Maven Superstore dataset to reduce holding costs, minimize stock-outs, and improve profitability. Using PostgreSQL (Supabase), Python, and Power BI, it implements ABC-XYZ classification, safety stock optimization, and excess/dead stock analysis. The insights demonstrate how data-driven decisions can free working capital, recover lost revenue, and enhance retail supply-chain performance.*
+I turn messy datasets into clear business decisions that improve revenue, efficiency, and customer experience.
+My work sits at the intersection of analytics, business thinking, and storytelling , where numbers turn into decisions.
 
-### [From Carts to Conscious Consumers: Applying Retail Intelligence to Nicobar’s World](https://github.com/aarushijain16/nicobar-proxy-omni-channel)
-*The project demonstrates how analytical frameworks from retail can be adapted for lifestyle brands like Nicobar, linking customer segmentation, CLV, product affinity, and engagement analytics to brand strategy and CRM design.*
+## 🛠️Skills and Expertise
 
-### [E-Commerce Customer and Performance Analytics](https://github.com/aarushijain16/e-commerce-customer-analytics) 
-*Uncovered pivotal insights from e-commerce data to optimize business performance, customer segmentation, and marketing strategies, driving quantifiable improvements in sales and retention.*
+🔹 Core Analytics and Tools
 
-### [Sales Forecasting with Time Series (R)](https://github.com/aarushijain16/sales-forecasting-timeseries) 
-*Leveraged advanced time series analysis in R to develop precise sales forecasts, providing critical data-driven guidance for inventory management and strategic planning.*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### [Recommending the Best Alternative (Supplier Selection with Python)](https://github.com/aarushijain16/supplier-selection-optimization) 
-*Engineered a Python-based solution to systematically evaluate and recommend optimal suppliers from a pool of 20, driving strategic decision-making and enhancing operational efficiency.*
+🔹 Analytical and ML Techniques
 
-### [Sales Forecasting (German Drugstore) using ML](https://github.com/aarushijain16/german-drugstore-sales-forecasting) 
-*Implemented robust Machine Learning models to accurately forecast sales for a German drugstore chain, providing actionable predictions to optimize inventory and operational planning.*
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A0A0A?style=for-the-badge)
+![Clustering](https://img.shields.io/badge/Clustering-FF6F00?style=for-the-badge)
+![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-4B8BBE?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-1565C0?style=for-the-badge)
 
-### [Knowledge Management and Digital Strategies (Accenture and Uber Research)](https://github.com/aarushijain16/knowledge-management-strategy-research) 
-*Conducted in-depth strategic research on Knowledge Management and Digital Strategies for industry leaders like Uber and Accenture, delivering actionable insights for enhanced organizational efficiency and competitive advantage.*
+🔹 Business and Domain Analytics
 
-### [Optimizing Customer Support Operations at Delwarca Software](https://github.com/aarushijain16/delwarca-optimising-customer-support)
-*Analysis and optimisation of call center operations at Delwarca Software's Remote Support Unit, leveraging business analysis and simulation modelling to improve customer service and resource utilisation.*
+![Inventory_Analytics](https://img.shields.io/badge/Inventory_Analytics-2E7D32?style=for-the-badge)
+![ABC--XYZ_Classification](https://img.shields.io/badge/ABC--XYZ_Classification-1B5E20?style=for-the-badge)
+![Customer_Analytics](https://img.shields.io/badge/Customer_Analytics-6A1B9A?style=for-the-badge)
+![Profitability_Analysis](https://img.shields.io/badge/Profitability_Analysis-004D40?style=for-the-badge)
+![Business_Analytics](https://img.shields.io/badge/Business_Analytics-1565C0?style=for-the-badge)
 
-### [Netflix Content Analysis: Trends & Distribution](https://github.com/aarushijain16/netflix-content-analysis--powerbi)
-*This project provides an in-depth analysis of Netflix's content library, dissecting distribution trends by type, release year, genre, and country. Built using Power BI with data from Kaggle, this report offers actionable insights into content strategy, audience preferences, and global reach through interactive visualizations.*
 
-### [Blinkit Grocery Data Analytics: Driving Sales & Customer Insights](https://github.com/aarushijain16/blinkit-grocery-data-analytics-powerbi)
-*This project presents an in-depth analysis of Blinkit's e-commerce transactional data through a comprehensive Power BI dashboard. It dissects revenue streams, evaluates product performance, and uncovers customer buying patterns to optimize sales, enhance product strategies, and improve overall business performance.*
+🔹 Visualization and Storytelling
 
-### [HR Analytics Dashboard: Understanding and Mitigating Employee Attrition](https://github.com/aarushijain16/hr-analytics-dashboard-power-bi)
-*This project presents an in-depth analysis of employee attrition using a comprehensive HR analytics dashboard. By dissecting key demographic, job role, and tenure-related factors, this dashboard provides actionable insights to understand the drivers of employee turnover, optimize retention strategies, and enhance overall workforce stability.*
+![Data_Visualization](https://img.shields.io/badge/Data_Visualization-3949AB?style=for-the-badge)
+![Dashboarding](https://img.shields.io/badge/Dashboarding-5E35B1?style=for-the-badge)
+![Insight_Storytelling](https://img.shields.io/badge/Insight_Storytelling-8E24AA?style=for-the-badge)
 
-### [Classic Models Sales Performance and Customer Analytics](https://github.com/aarushijain16/classic-model-power-bi)
-*This project provides a comprehensive analysis of sales, customer, product, and employee performance for "Classic Models" using a multi-page Power BI dashboard. Leveraging data from Kaggle, it offers actionable insights to optimize revenue, enhance customer engagement, manage inventory, and improve sales team effectiveness.*
+## 📂 Projects
 
-### [Pizza Sales Performance Report](https://github.com/aarushijain16/pizza_sales_analysis-power-bi)
-*This repository features a Power BI report and its corresponding dataset for a comprehensive analysis of pizza sales. The report visualizes crucial business metrics, including total revenue, total quantity sold, and average order value. The dashboard is designed to provide actionable insights by breaking down sales data across various dimensions such as pizza category, time of day, and day of the week. This project is an excellent resource for anyone interested in exploring data analytics, sales performance, and consumer trends within the food service industry.*
+### 🚀 Flagship and Advanced Analytics
+<table> <tr> <td width="50%"> <a href="https://github.com/aarushijain16/airbnb-demand-forecasting"><b>🔮 Forecasting Airbnb Demand in London</b></a><br> <sub>Published research leveraging advanced machine learning and granular market data to forecast Airbnb demand and uncover key growth drivers in London.</sub> </td> <td width="50%"> <a href="https://github.com/aarushijain16/maven-superstore-postgresql"><b>📦 Maven Superstore - Inventory Optimization and Profitability</b></a><br> <sub>Applied ABC-XYZ classification, safety stock optimization, and dead-stock analysis using PostgreSQL (Supabase), Python, and Power BI to improve profitability.</sub> </td> </tr> <tr> <td width="50%"> <a href="https://github.com/aarushijain16/nicobar-proxy-omni-channel"><b>🛍️ From Carts to Conscious Consumers - Nicobar</b></a><br> <sub>Adapted retail analytics frameworks (CLV, segmentation, product affinity, engagement analytics) for a lifestyle brand, linking insights to CRM and brand strategy.</sub> </td> <td width="50%"> <a href="https://github.com/aarushijain16/e-commerce-customer-analytics"><b>🧠 E-Commerce Customer and Performance Analytics</b></a><br> <sub>Analyzed customer behavior, segmentation, and marketing performance to drive measurable improvements in sales and retention.</sub> </td> </tr> </table>
 
-------
-Contact me at:
-* Email: aarushi.careers16@gmail.com
-          *OR*
-* [LinkedIn](https://www.linkedin.com/in/aarushiijainn) 
+### 📈 Forecasting, Optimization and Machine Learning
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/aarushijain16/sales-forecasting-timeseries">
+<b>📈 Sales Forecasting with Time Series (R)</b>
+</a><br>
+<sub>
+Built advanced time-series models in R to deliver accurate sales forecasts for inventory and strategic planning.
+</sub>
+</td>
+
+<td width="50%">
+<a href="https://github.com/aarushijain16/german-drugstore-sales-forecasting">
+<b>🏪 Sales Forecasting - German Drugstore (ML)</b>
+</a><br>
+<sub>
+Implemented machine learning models to forecast sales for a German drugstore chain, optimizing inventory and operations.
+</sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<a href="https://github.com/aarushijain16/supplier-selection-optimization">
+<b>🤖 Supplier Selection Optimization (Python)</b>
+</a><br>
+<sub>
+Developed a Python-based decision model to evaluate and recommend optimal suppliers from a pool of 20.
+</sub>
+</td>
+
+<td width="50%">
+<a href="https://github.com/aarushijain16/delwarca-optimising-customer-support">
+<b>📞 Optimizing Customer Support - Delwarca Software</b>
+</a><br>
+<sub>
+Simulation-based optimization of call center operations to improve service levels, efficiency, and resource utilization.
+</sub>
+</td>
+</tr>
+</table>
+
+### 📊 Business Intelligence and Power BI Dashboards
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/aarushijain16/netflix-content-analysis--powerbi">
+<b>🎬 Netflix Content Analysis</b>
+</a><br>
+<sub>
+Power BI analysis of Netflix’s content library by genre, release year, country, and distribution trends.
+</sub>
+</td>
+
+<td width="50%">
+<a href="https://github.com/aarushijain16/blinkit-grocery-data-analytics-powerbi">
+<b>🛒 Blinkit Grocery Data Analytics</b>
+</a><br>
+<sub>
+Revenue, product performance, and customer buying behavior analysis to optimize sales and product strategy.
+</sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<a href="https://github.com/aarushijain16/hr-analytics-dashboard-power-bi">
+<b>👥 HR Analytics - Employee Attrition</b>
+</a><br>
+<sub>
+Dashboard identifying key demographic, role-based, and tenure-related drivers of employee attrition.
+</sub>
+</td>
+
+<td width="50%">
+<a href="https://github.com/aarushijain16/classic-model-power-bi">
+<b>🚗 Classic Models - Sales and Customer Analytics</b>
+</a><br>
+<sub>
+Multi-page Power BI dashboard analyzing sales, customers, inventory, and employee performance.
+</sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<a href="https://github.com/aarushijain16/pizza_sales_analysis-power-bi">
+<b>🍕 Pizza Sales Performance Dashboard</b>
+</a><br>
+<sub>
+Comprehensive sales analysis covering revenue, order volume, time-based trends, and product categories.
+</sub>
+</td>
+
+<td width="50%">
+<a href="https://github.com/aarushijain16/e-commerce-customer-analytics">
+<b>📊 E-Commerce Performance Analytics</b>
+</a><br>
+<sub>
+End-to-end analysis of e-commerce KPIs, customer segments, and business performance metrics.
+</sub>
+</td>
+</tr>
+</table>
+
+### 🧠 Strategy and Research
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/aarushijain16/knowledge-management-strategy-research">
+<b>📚 Knowledge Management and Digital Strategy - Uber and Accenture</b>
+</a><br>
+<sub>
+Conducted in-depth strategic research on knowledge management and digital strategy frameworks, delivering actionable insights for organizational efficiency and competitive advantage.
+</sub>
+</td>
+</tr>
+</table>
+
+## 💬 Let’s Connect
+
+📧 Email: aarushi.careers16@gmail.com
+
+🔗 LinkedIn: [Aarushi Jain](www.linkedin.com/in/aarushiijainn)
+
+## 🎯 How I Create Impact
+
+I help businesses move from insight to action , using data to drive confident, outcome-focused decisions.
+
+
+
 
