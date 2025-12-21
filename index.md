@@ -169,9 +169,11 @@ Conducted in-depth strategic research on knowledge management and digital strate
 
 ## 💬 Let’s Connect
 
-📧 Email: aarushi.careers16@gmail.com
+📧  [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:aarushi.careers16@gmail.com)
 
-🔗 LinkedIn: [Aarushi Jain](www.linkedin.com/in/aarushiijainn)
+
+🔗  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aarushiijainn)
+
 
 ## 🎯 How I Create Impact
 
