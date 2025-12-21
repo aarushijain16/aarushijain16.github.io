@@ -9,6 +9,9 @@ Key Skills: Python, SQL, R, Power BI
 ### [Forecasting Airbnb Demand in London](https://github.com/aarushijain16/airbnb-demand-forecasting)
 *Unlocked the secrets of London's Airbnb market: a published study leveraging advanced machine learning and granular data insights to accurately forecast demand and pinpoint key growth drivers.*
 
+### [Maven Superstore Inventory Optimization and Profitability Analysis](https://github.com/aarushijain16/maven-superstore-postgresql)
+*This project applies advanced inventory analytics to the Maven Superstore dataset, uncovering opportunities to reduce holding costs, minimize stock-outs, and optimize profitability. The analysis utilizes PostgreSQL (Supabase), Python, and Power BI to create a framework for ABC-XYZ classification, safety stock, excess/dead stock analysis, and financial impact assessment. The goal was to demonstrate how quantitative insights can free trapped capital, recover lost revenue, and improve supply-chain decisions, making it applicable to real-world retail like Superstore chains.*
+
 ### [From Carts to Conscious Consumers: Applying Retail Intelligence to Nicobar’s World](https://github.com/aarushijain16/nicobar-proxy-omni-channel)
 *The project demonstrates how analytical frameworks from retail can be adapted for lifestyle brands like Nicobar, linking customer segmentation, CLV, product affinity, and engagement analytics to brand strategy and CRM design.*
 
