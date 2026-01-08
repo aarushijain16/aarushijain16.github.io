@@ -42,7 +42,17 @@ My work sits at the intersection of analytics, business thinking, and storytelli
 ## 📂 Projects
 
 ### 🚀 Flagship and Advanced Analytics
-<table> <tr> <td width="50%"> <a href="https://github.com/aarushijain16/airbnb-demand-forecasting"><b>🔮 Forecasting Airbnb Demand in London</b></a><br> <sub>Published research leveraging advanced machine learning and granular market data to forecast Airbnb demand and uncover key growth drivers in London.</sub> </td> <td width="50%"> <a href="https://github.com/aarushijain16/maven-superstore-postgresql"><b>📦 Maven Superstore - Inventory Optimization and Profitability</b></a><br> <sub>Applied ABC-XYZ classification, safety stock optimization, and dead-stock analysis using PostgreSQL (Supabase), Python, and Power BI to improve profitability.</sub> </td> </tr> <tr> <td width="50%"> <a href="https://github.com/aarushijain16/nicobar-proxy-omni-channel"><b>🛍️ From Carts to Conscious Consumers - Nicobar</b></a><br> <sub>Adapted retail analytics frameworks (CLV, segmentation, product affinity, engagement analytics) for a lifestyle brand, linking insights to CRM and brand strategy.</sub> </td> <td width="50%"> <a href="https://github.com/aarushijain16/e-commerce-customer-analytics"><b>🧠 E-Commerce Customer and Performance Analytics</b></a><br> <sub>Analyzed customer behavior, segmentation, and marketing performance to drive measurable improvements in sales and retention.</sub> </td> </tr> </table>
+<table> <tr> <td width="50%"> <a href="https://github.com/aarushijain16/airbnb-demand-forecasting"><b>🔮 Forecasting Airbnb Demand in London</b></a><br> <sub>Published research leveraging advanced machine learning and granular market data to forecast Airbnb demand and uncover key growth drivers in London.</sub> </td> <td width="50%"> <a href="https://github.com/aarushijain16/maven-superstore-postgresql"><b>📦 Maven Superstore - Inventory Optimization and Profitability</b></a><br> <sub>Applied ABC-XYZ classification, safety stock optimization, and dead-stock analysis using PostgreSQL (Supabase), Python, and Power BI to improve profitability.</sub> </td> </tr> <tr> <td width="50%"> <a href="https://github.com/aarushijain16/nicobar-proxy-omni-channel"><b>🛍️ From Carts to Conscious Consumers - Nicobar</b></a><br> <sub>Adapted retail analytics frameworks (CLV, segmentation, product affinity, engagement analytics) for a lifestyle brand, linking insights to CRM and brand strategy.</sub> </td> <td width="50%"> <a href="https://github.com/aarushijain16/e-commerce-customer-analytics"><b>🧠 E-Commerce Customer and Performance Analytics</b></a><br> <sub>Analyzed customer behavior, segmentation, and marketing performance to drive measurable improvements in sales and retention.</sub> </td> </tr> 
+<tr>
+    <td width="50%">
+      <a href="https://github.com/aarushijain16/foodpanda-customer-behaviour-analysis"><b>🍔 FoodPanda Customer Behaviour Analysis</b></a><br>
+      <sub>Examined customer churn, RFM segmentation, delivery performance, and restaurant-level insights to identify revenue leakage and retention opportunities.</sub>
+    </td>
+    <td width="50%">
+      <!-- intentionally left blank to preserve layout symmetry -->
+    </td>
+  </tr>
+</table>
 
 ### 📈 Forecasting, Optimization and Machine Learning
 
